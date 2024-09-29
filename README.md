@@ -1,4 +1,4 @@
-# Fast DBT Project
+# fast-dbt
 
 Welcome to the **Fast DBT Project**! This project streamlines the setup of a PostgreSQL database along with a [dbt](https://www.getdbt.com/) (Data Build Tool) project using Docker. The provided `setup.sh` script automates the entire process, allowing you to get started with data transformation and modeling quickly and efficiently.
 
